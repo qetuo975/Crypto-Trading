@@ -56,8 +56,8 @@ print(Fore.GREEN+"""
 #-------------------------------------------------------W
 
 
-secret = "ODEf7glIbPeKg7Ec4eDTxX7LtVhWv2FAANMIGLEYwSVBIJf4tbnZ5jPVk2X07OC4"
-apı = "YkB8jMJK2KZI4nwvHpKMtd13VNIKRytxiTaKHJF5fU9JVM77WEHjm6JCSHdzwmrH"
+secret = ""
+apı = ""
 ROB = Client(apı,secret)
 
 
