@@ -53,15 +53,9 @@ print(Fore.GREEN+"""
 """)
 
 #-------------------------------------------------------W
-secret = "IGHGcxQJH6RphvhYlrIaKuO0HafmKsDZzomPwQRwJ4vWCxK9J308dUsf3ExIqy8i"
-apı = "EcQ63cL9kNML9rrMCPhBuknVmlOmdnAY9w9VDMHMtInPc74yt1O8VWWMe7mH5G2v"
+secret = ""
+apı = ""
 ROB = Client(apı,secret)
-
-# MY SEC  ODEf7glIbPeKg7Ec4eDTxX7LtVhWv2FAANMIGLEYwSVBIJf4tbnZ5jPVk2X07OC4
-# MY API  YkB8jMJK2KZI4nwvHpKMtd13VNIKRytxiTaKHJF5fU9JVM77WEHjm6JCSHdzwmrH
-
-# YASİN ABİ SECRET IGHGcxQJH6RphvhYlrIaKuO0HafmKsDZzomPwQRwJ4vWCxK9J308dUsf3ExIqy8i
-# YASİN ABİ API    EcQ63cL9kNML9rrMCPhBuknVmlOmdnAY9w9VDMHMtInPc74yt1O8VWWMe7mH5G2v
 
 
 times = time.gmtime()
